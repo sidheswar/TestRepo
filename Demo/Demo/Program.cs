@@ -11,6 +11,7 @@ namespace Demo
         static int Main(string[] args)
         {
             Math.Abs(0.7);
+            Math.Atan(45);
             return 0;
         }
     }
